@@ -15,7 +15,7 @@ MonoBehaviour:
   raycastLength: 1.05
   jumpForce: 3
   sensitivity: 1
-  walkSpeed: 2
-  sprintSpeed: 4
+  walkSpeed: 4
+  sprintSpeed: 8
   rotationLimit: 0.5
-  KeysEquipped: 0
+  KeysEquipped: 3
